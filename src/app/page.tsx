@@ -10,9 +10,9 @@ export default function Home() {
     <main className="container mx-auto px-4 py-8">
       <div className="max-w-4xl mx-auto space-y-6">
         <Profile
-          name="이프로"
+          name="포도프로로"
           title="PM 서비스 기획 / FE Developer(jr)"
-          email="leepro@naver.com"
+          email="podojava@naver.com"
           phone="+082-1234-5678"
           imageUrl="/images/profile.jpg"
         />
